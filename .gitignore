@@ -1,0 +1,6 @@
+bin/
+obj/
+results/
+.vs/
+.idea/
+*.user
